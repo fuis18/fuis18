@@ -44,8 +44,8 @@
 
 - 🎵 [Spotify Astro](https://github.com/fuis18/spotify-astro) - Clon de Spotify
 - 🍽 [Restaurant POS](https://github.com/fuis18/restaurant-pos) - An App for a restaurant type POS
-- 👋 [Portafolio](https://fuis18.github.io/) - My personal web site
 - 🧁 [Brownies Store](https://github.com/fuis18/healthy-life) - Healthy Life
+- 👋 [Portafolio](https://fuis18.github.io/) - My personal web site
 - ⛏ [Projects](https://fuis18.github.io/Projects_v5) - My mini projects with react
 
 ## Philosophy
