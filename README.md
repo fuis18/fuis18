@@ -42,7 +42,7 @@
 
 ## Current Projects
 
-- 🍽 [Restaurant POS](https://github.com/fuis18/restaurant-pos) - An App for a restaurant type POS
+- 🍽 [APP POS](https://github.com/fuis18/app-pos) - An App for a restaurant type POS
 - 🎵 [Spotify Astro](https://github.com/fuis18/spotify-astro) - Clon de Spotify
 - 🧁 [Brownies Store](https://github.com/fuis18/healthy-life) - Healthy Life
 - 👋 [Portafolio](https://fuis18.github.io/) - My personal web site
