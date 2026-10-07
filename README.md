@@ -39,15 +39,17 @@
 
 ## Top Projects
 
-- :computer: [Dotfiles](https://github.com/fuis18/dotfiles) - Archlinux + Hyprland + Cachyos
-- 🍽 [APP POS](https://github.com/fuis18/app-pos) - An App for a restaurant type POS
+- 🌐 [Software](https://github.com/fuis18/software) - A website to see the programming ecosystem
+- 👤 [Portafolio Personal](https://github.com/fuis18/fuis18.github.io) - Portafolio personal
+- 💻 [Dotfiles](https://github.com/fuis18/dotfiles) - Archlinux + Hyprland + Cachyos
+- 🍽️ [APP POS](https://github.com/fuis18/app-pos) - An App for a restaurant type POS
 
 ## Projects
 
 - 🎵 [Spotify Astro](https://github.com/fuis18/spotify-astro) - Clon de Spotify
 - 🧁 [Brownies Store](https://github.com/fuis18/healthy-life) - Healthy Life
 - 👋 [Portafolio](https://fuis18.github.io/) - My personal web site
-- ⛏ [All-Projects](https://fuis18.github.io/All-Projects) - Only JS, my beginning
+- ⛏️ [All-Projects](https://fuis18.github.io/All-Projects) - Only JS, my beginning
 
 ## Philosophy
 
