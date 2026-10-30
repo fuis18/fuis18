@@ -20,21 +20,6 @@
       <samp>」</samp>
     </strong>
   </p>
-  <details>
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br />
-    <p align="center">
-      <samp>
-        [ <a href="https://fuis18.is-a.dev/">about me</a> .
-        <a href="https://fuis18.is-a.dev/projects">projects</a> .
-        <a href="mailto:fuis18@proton.com">contact</a> ]
-      </samp>
-    </p>
-  </details>
 </div>
 
 ## Top Projects
